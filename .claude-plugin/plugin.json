@@ -1,0 +1,12 @@
+{
+  "name": "jp-req-toolkit",
+  "version": "1.0.0",
+  "description": "Requirements-driven development toolkit: split docx into modules, diff requirements vs implementation, generate E2E tests from gaps",
+  "author": {
+    "name": "amosjp",
+    "url": "https://github.com/amosjp"
+  },
+  "repository": "https://github.com/amosjp/jp-req-toolkit",
+  "license": "MIT",
+  "keywords": ["requirements", "e2e", "testing", "docx", "diff", "playwright", "feishu"]
+}

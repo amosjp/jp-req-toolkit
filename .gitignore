@@ -1,0 +1,17 @@
+# Feishu credentials (never commit)
+jp-config.json
+.feishu-config.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
