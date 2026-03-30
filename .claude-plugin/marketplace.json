@@ -1,0 +1,25 @@
+{
+  "name": "jp-req-toolkit",
+  "owner": {
+    "name": "amosjp",
+    "email": "",
+    "url": "https://github.com/amosjp"
+  },
+  "metadata": {
+    "description": "JP Requirements-Driven Development Marketplace",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "jp-req-toolkit",
+      "source": "./plugins/jp-req-toolkit",
+      "description": "Split docx, diff requirements vs implementation, generate E2E tests from gaps",
+      "version": "1.0.0",
+      "category": "testing",
+      "keywords": ["requirements", "e2e", "testing", "docx", "diff", "playwright", "feishu"],
+      "author": {
+        "name": "amosjp"
+      }
+    }
+  ]
+}

@@ -13,7 +13,11 @@ A Claude Code plugin for requirements-driven development. Split `.docx` requirem
 ## Install
 
 ```bash
-claude plugin add github:amosjp/jp-req-toolkit
+# Step 1: Add the marketplace
+claude plugin marketplace add amosjp/jp-req-toolkit
+
+# Step 2: Install the plugin
+claude plugin install jp-req-toolkit@jp-req-toolkit
 ```
 
 ## Prerequisites
